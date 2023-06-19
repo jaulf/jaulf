@@ -5,6 +5,24 @@
 
 Welcome to my GitHub profile! I'm Howard Otuya, a passionate User Experience (UX) designer and Web Developer based in Nigeria. 
 
+## My Tech Stack 🔭
+
+Here are the technologies I work with:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Express.js
+- MongoDB
+
+## My Design Stack 🔭
+
+Here are the design tools and technologies I utilize:
+
+- Figma
+- AdobeXD
 
 ## Let's Connect 📫
 

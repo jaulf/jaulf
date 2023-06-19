@@ -11,6 +11,7 @@ Here are the technologies I work with:
 
 - HTML
 - CSS
+- Tailwindcss
 - JavaScript
 - React
 - Next.js

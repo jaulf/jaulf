@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-# Howard Otuya - User Experience Designer and Web Developer ⚡
+## Howard Otuya - User Experience Designer and Web Developer ⚡
 
-Welcome to my GitHub profile! I'm Howard Otuya, a passionate User Experience (UX) designer and Web Developer based in Lagos. 
+Welcome to my GitHub profile! I'm Howard Otuya, a passionate User Experience (UX) designer and Web Developer based in Nigeria. 
 
 
 ## Let's Connect 📫
@@ -11,7 +11,9 @@ Welcome to my GitHub profile! I'm Howard Otuya, a passionate User Experience (UX
 I am always eager to connect with fellow professionals, share knowledge, and collaborate on exciting projects. I believe that by learning from each other, we can collectively grow and push the boundaries of what is possible in the field of Design and Development.
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/howard-otuya-7251411b2)
+
 Follow me on Twitter: [Twitter Handle](https://twitter.com/howard_xm)
+
 Follow me on Behance: [Behance Profile](https://behance.net/howardotuya)
 
 Looking forward to connecting with you and embarking on this exciting journey together 😄!

@@ -2,7 +2,7 @@
 
 # Howard Otuya - User Experience Designer and Web Developer ⚡
 
-Welcome to my GitHub profile! I'm Howard Otuya, a passionate User Experience (UX) designer based in Lagos. I have a strong background in Web Development, with three years of hands-on experience. However, I encountered challenges when it came to building user-focused products with a strong emphasis on user accessibility. This led me to embark on a transformative journey into the world of User Experience.
+Welcome to my GitHub profile! I'm Howard Otuya, a passionate User Experience (UX) designer and Web Developer based in Lagos. I have a strong background in Web Development, with three years of hands-on experience. However, I encountered challenges when it came to building user-focused products with a strong emphasis on user accessibility. This led me to embark on a transformative journey into the world of User Experience.
 
 ## About Me 🌱
 

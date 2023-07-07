@@ -18,6 +18,7 @@ Here are the technologies I work with:
 - Next.js
 - Express.js
 - MongoDB
+- GSAP
 
 
 ## My Design Stack 🔭

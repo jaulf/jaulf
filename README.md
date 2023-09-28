@@ -3,7 +3,7 @@
 
 ## Howard Otuya - Product Designer and Web Developer ⚡
 
-Welcome to my GitHub profile! I'm Howard Otuya, a passionate User Experience (UX) designer and Web Developer based in Nigeria. 
+Welcome to my GitHub profile! I'm Howard Otuya, a product designer and Web Developer based in Nigeria. 
 
 
 ## My Tech Stack 🔭
